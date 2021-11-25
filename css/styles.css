@@ -87,6 +87,30 @@ hr{
   padding: 50px 0 20px;
 }
 
+.web-design-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.backend-developer-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.uiux-design-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.gui-design-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
 .skill-img-1{
   width: 25%;
   float: left;
